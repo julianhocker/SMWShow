@@ -1,4 +1,4 @@
-# Wikidata Show
+# SMW Show
 This extension for mediawiki allows you to integrate data from any Semantic MediaWiki into your wiki. 
  
 The extension adds the following magic words to your mediawiki:
